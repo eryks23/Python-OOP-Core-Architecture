@@ -1,0 +1,9 @@
+# fleet-management — Python OOP Core Architecture
+#
+# No external dependencies required.
+# This project uses only the Python standard library (abc module).
+#
+# Runtime requirement: Python >= 3.8
+#
+# To run tests (optional):
+#   pip install pytest

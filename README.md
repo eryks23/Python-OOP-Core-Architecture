@@ -2,8 +2,8 @@
 
 > A Python OOP reference implementation for vehicle fleet management — abstract classes, mixins, property validation, and polymorphism in a clean, extensible architecture.
 
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python&logoColor=white)
-![License](https://img.shields.io/badge/License-MIT-green)
+[![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python&logoColor=white)](https://www.python.org/)
+[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 ![Dependencies](https://img.shields.io/badge/dependencies-none-brightgreen)
 
 ---

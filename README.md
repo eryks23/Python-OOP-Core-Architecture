@@ -309,8 +309,7 @@ def test_service_fleet_runs(capsys):
 
 ## Author
 
-**eryks23**
-GitHub: [https://github.com/eryks23](https://github.com/eryks23)
+GitHub: [@eryks23](https://github.com/eryks23)              
 Repository: [https://github.com/eryks23/Python-OOP-Core-Architecture](https://github.com/eryks23/Python-OOP-Core-Architecture)
 
 ---
